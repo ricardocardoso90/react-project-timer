@@ -1,14 +1,21 @@
-# Projeto Timer
+## Projeto: Timer
 
-Projeto desenvolvido durante o curso Ignite Lab da Rocketseat.
+**Tecnologias utilizadas:**
 
-Tecnologias utilizadas: React + TypeScript.
+- [Typescript]()
+- [Phosphor React]()
+- [Immer]()
+- [Zod]()
+- [React Navigation]()
+- [Styled Components]()
+- [React Router Dom]()
+- [React Hook Form]()
 
-# Instalação:
+## Instalação:
 
 - `npm create vite@latest`
 - `npm i ou npm install`
 
-### Para rodar:
+## Para rodar:
 
 - `npm run dev`
